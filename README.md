@@ -14,4 +14,5 @@ In particular:
 | 3_blitting_images.py| putting first images on the surface |
 | 4_blitting_text.py| set text in specifig font on the surface |
 | 5_adding_sounds.py| adding sound with mixer |
+| 6_discrete_keyboard_movement.py | adding bone dry simple movement according arrow keys |
 
