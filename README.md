@@ -16,3 +16,15 @@ In the first way it contains only a few basic scripts, to getting feets wet.
 | 5_adding_sounds.py| Added sound with mixer |
 | 6_discrete_keyboard_movement.py | Added bone dry simple movement according arrow keys |
 | 7_mouse_movement.py | Added some mousemovement. The displayed image is following the mouse, by mousemovement,if left mousebutton is down |
+
+
+### Credits:
+The projects contains assets from :
+
+Images from [https://www.iconarchive.com/](https://www.iconarchive.com/)
+
+Fonts from [https://www.fontspace.com/](https://www.fontspace.com/)
+
+Sounds from [https://www.leshylabs.com/apps/sfMaker/](https://www.leshylabs.com/apps/sfMaker/)
+
+Thanks to this contributors to help me making my projects
